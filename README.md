@@ -41,8 +41,8 @@ Antes de instalar el proyecto, asegúrate de tener:
 
 Para instalar el backend y frontend, sigue los pasos detallados en sus respectivos README:
 
-- [Instrucciones de instalación del backend](backend/README.md)
-- [Instrucciones de instalación del frontend](frontend/README.md)
+- [Instrucciones de instalación del backend](backend_comites/README.md)
+- [Instrucciones de instalación del frontend](frontend_comites/README.md)
 
 ## Tecnologías utilizadas
 
@@ -64,10 +64,10 @@ Para instalar el backend y frontend, sigue los pasos detallados en sus respectiv
 
 ```
 /Comites-Sena
-│── /frontend  --> Contiene el código del frontend
+│── /frontend_comites  --> Contiene el código del frontend
 │    ├── README.md  👈 Instrucciones del frontend
 │
-│── /backend  --> Contiene el código del backend
+│── /backend_comites  --> Contiene el código del backend
 │    ├── README.md  👈 Instrucciones del backend
 │
 │── README.md  👈 Este archivo (General)
